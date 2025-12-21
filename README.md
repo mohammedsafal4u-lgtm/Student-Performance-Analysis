@@ -96,4 +96,4 @@ This project demonstrates how data analytics and visualization techniques can be
 ## Author
 
 Mohammed Safal
-Data Analytics Student
+
